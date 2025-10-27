@@ -1,5 +1,6 @@
 #include <stdio.h>
 int main(){
-    printf("hello bhai logo");
+    printf("hello bhai logo")
     
+
 }
