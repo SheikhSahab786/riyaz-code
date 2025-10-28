@@ -16,7 +16,7 @@ int main (){
 //     printf ("you are child");
 // }
 // }
-//m1
+//method 1
 // if(x>18 && x<80){
 //     printf("you are drive must liceanse ");
 
